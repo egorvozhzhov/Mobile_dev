@@ -3,5 +3,6 @@
 
 -[Lesson 2](https://github.com/egorvozhzhov/Lesson2)
 
+-[Lesson 3](https://github.com/egorvozhzhov/Lesson3)
 
 -[MireaProject ](https://github.com/egorvozhzhov/MireaProject)
