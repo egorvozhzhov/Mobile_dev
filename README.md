@@ -11,4 +11,6 @@
 
 -[Lesson 6](https://github.com/egorvozhzhov/Lesson6)
 
+-[Lesson 7](https://github.com/egorvozhzhov/Lesson7)
+
 -[MireaProject ](https://github.com/egorvozhzhov/MireaProject)
