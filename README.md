@@ -13,4 +13,6 @@
 
 -[Lesson 7](https://github.com/egorvozhzhov/Lesson7)
 
+-[Lesson 8](https://github.com/egorvozhzhov/Lesson8)
+
 -[MireaProject ](https://github.com/egorvozhzhov/MireaProject)
